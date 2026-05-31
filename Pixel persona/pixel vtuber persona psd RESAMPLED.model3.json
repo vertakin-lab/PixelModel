@@ -9,5 +9,19 @@
     "Physics": "pixel vtuber persona psd RESAMPLED.physics3.json",
     "DisplayInfo": "pixel vtuber persona psd RESAMPLED.cdi3.json"
   },
-  "Groups": [ ... ]
+  "Groups": [{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen",
+				"ParamEyeLOpen"
+			]
+		}
+	]
+}]
 }

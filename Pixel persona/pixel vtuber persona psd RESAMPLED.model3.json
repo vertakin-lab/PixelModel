@@ -1,27 +1,13 @@
 {
-	"Version": 3,
-	"FileReferences": {
-		"Moc": "pixel vtuber persona psd RESAMPLED.moc3",
-		"Textures": [
-			"pixel vtuber persona psd RESAMPLED.4096/texture_00.png",
-			"pixel vtuber persona psd RESAMPLED.4096/texture_01.png"
-		],
-		"Physics": "pixel vtuber persona psd RESAMPLED.physics3.json",
-		"DisplayInfo": "pixel vtuber persona psd RESAMPLED.cdi3.json"
-	},
-	"Groups": [
-		{
-			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": []
-		},
-		{
-			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": [
-				"ParamEyeROpen",
-				"ParamEyeLOpen"
-			]
-		}
-	]
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "pixel vtuber persona psd RESAMPLED.moc3",
+    "Textures": [
+      "pixel vtuber persona psd RESAMPLED.4096/texture_00.png",
+      "pixel vtuber persona psd RESAMPLED.4096/texture_01.png"
+    ],
+    "Physics": "pixel vtuber persona psd RESAMPLED.physics3.json",
+    "DisplayInfo": "pixel vtuber persona psd RESAMPLED.cdi3.json"
+  },
+  "Groups": [ ... ]
 }
